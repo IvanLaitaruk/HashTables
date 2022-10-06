@@ -1,0 +1,20 @@
+﻿  practice3HashTables.cpp
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(42,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(64,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(76,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(195,19): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(192): message : while compiling class template member function 'size_t HashTable<int>::double_hashing(size_t)'
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(243): message : see reference to function template instantiation 'size_t HashTable<int>::double_hashing(size_t)' being compiled
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(288): message : see reference to class template instantiation 'HashTable<int>' being compiled
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(197,1): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(148,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(144): message : while compiling class template member function 'void HashTable<int>::rehash(void)'
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(246): message : see reference to function template instantiation 'void HashTable<int>::rehash(void)' being compiled
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(214,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(213): message : while compiling class template member function 'int HashTable<int>::size(void) const'
+C:\Users\ВАНЯ\source\repos\practice3HashTables\practice3HashTables\practice3HashTables.cpp(271): message : see reference to function template instantiation 'int HashTable<int>::size(void) const' being compiled
+  practice3HashTables.vcxproj -> C:\Users\ВАНЯ\source\repos\practice3HashTables\x64\Debug\practice3HashTables.exe
